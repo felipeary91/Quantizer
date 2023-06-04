@@ -1,4 +1,4 @@
-# Uniform Quantizer
+# Uniform Quantizer using DISLIN
 Quantization is a discretization process in which the continuous range of all possible values of a signal are replaced by a discrete range of values. In other words, a quantizer function $Q:R→Γ$, assigns a value $Q(a)∈Γ$ to each signal value. A formal definition of a quantizer is :
 
 ```math
